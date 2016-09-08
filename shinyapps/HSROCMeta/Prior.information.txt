@@ -1,0 +1,8 @@
+"Lower bound" "Upper bound"
+"beta" -0.75 0.75
+"THETA" -1.5 1.5
+"LAMBDA" -3 3
+"sigma_alpha" 0 2
+"sigma_theta" 0 2
+"prevalence" 0 1
+"Range_rij" -5.8649742438546 5.8649742438546
